@@ -1,10 +1,9 @@
 {
   // packages config
-  "php.validate.executablePath": "C:\\Users\\lazy\\Documents\\php\\php.exe",
   "window.zoomLevel": 0,
   "git.autofetch": true,
   "powermode.enabled": true,
-  "powermode.shakeIntensity": 2,
+  "powermode.shakeIntensity": 3,
   "workbench.iconTheme": "material-icon-theme",
   "prettier.useTabs": true,
   "prettier.singleQuote": true,
