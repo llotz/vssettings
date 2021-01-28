@@ -167,5 +167,8 @@
     "terminal.ansiWhite": "#F1EFF8",
     "terminal.ansiYellow": "#AE81FF",
     "terminal.background": "#141414",
-  }
+  },
+  "editor.tokenColorCustomizations": {
+    "comments": "#f00"
+	},
 }
